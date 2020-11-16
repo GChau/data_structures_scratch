@@ -9,6 +9,5 @@ This is just an example Git repo to ease back into CompSci basics. I want to wri
 
 # Technical Overview
 
-# C#
-# Docker
-# C++
+* C#
+* Docker
